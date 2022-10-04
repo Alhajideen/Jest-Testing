@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alhajideen/Jest-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alhajideen/Jest-Testing/issues"
+  },
+  "homepage": "https://github.com/Alhajideen/Jest-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
