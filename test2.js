@@ -5,3 +5,5 @@ const revCap = {
     return temp;
   }
 };
+
+module.exports = revCap;
