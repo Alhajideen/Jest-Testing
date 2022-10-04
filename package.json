@@ -4,7 +4,7 @@
   "description": "",
   "main": "test1.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
